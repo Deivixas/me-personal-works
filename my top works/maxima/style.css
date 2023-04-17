@@ -1,0 +1,56 @@
+body {
+  background-color: bisque;
+}
+
+#logo {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+a {
+  text-decoration: none;
+  padding: 10px;
+}
+
+.header-links {
+  text-align: center;
+  padding-bottom: 12px;
+}
+
+#deividas {
+  margin: auto;
+  width: 90%;
+  padding-bottom: 10px;
+}
+
+.as {
+  text-align: center;
+  padding-top: 40px;
+}
+
+.maxima {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+
+.spalvos {
+  background-color: white;
+  box-shadow: 1px 1px 2px rgb(151, 144, 144);
+  width: 50%;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+ul {
+  text-align: left;
+}
+
+footer {
+  text-align: center;
+  padding: 15px;
+  color: black;
+}
